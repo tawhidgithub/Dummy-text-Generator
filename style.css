@@ -1,0 +1,47 @@
+*{
+    margin: 0 ;
+    padding: 0;
+
+
+}
+body{
+    margin: 0 auto;
+    width: 419px;
+    font-family: arial;
+}
+
+
+.mainbody{
+
+}
+.bodypart{
+
+}
+.bodypart h2{
+    text-align: center;
+    padding-top: 35px;
+    font-size: 36px;
+    padding-bottom: 22px;
+}
+.for{
+
+}
+.form{
+
+}
+.lav{
+
+}
+.number{
+    padding: 3px;
+
+}
+.but{
+    padding: 3px 7px 4px 7px;
+    background: #eee;
+    border: none;
+}
+.show{
+    padding-top: 42px;
+    font-size: 19px;
+}
